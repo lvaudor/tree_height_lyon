@@ -1,0 +1,12 @@
+This script aims at producing raster data that corresponds to tree or shrub height in Lyon (FR) and surrounding areas (Lyon metropole).
+
+It calculates a Digital Height Model based on several kinds of raw input data, all provided by the OpenData platform (data.grandlyon.com).
+
+It uses the R software and lidR package.
+
+The output data is provided as rasters with resolution 50cm (data/vegetation_height_50cm).
+
+The script tree_height_lyon.R also show how these rasters can be aggregated into a single raster with resolution 2m (not provided here as it exceeds gitHub's limit in size for a single file).
+
+
+
