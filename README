@@ -6,7 +6,7 @@ It uses the R software and lidR package.
 
 The output data is provided as rasters with resolution 50cm (data/vegetation_height_50cm).
 
-The script tree_height_lyon.R also show how these rasters can be aggregated into a single raster with resolution 2m (not provided here as it exceeds gitHub's limit in size for a single file).
+The script tree_height_lyon.R also shows how these rasters can be aggregated into a single raster with resolution 2m (not provided here as it exceeds gitHub's limit in size for a single file).
 
 
 
